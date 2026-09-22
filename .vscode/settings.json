@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Chapter-12-only-move.sln"
+    "dotnet.defaultSolution": "Chapter-12-Jobs.slnx"
 }
